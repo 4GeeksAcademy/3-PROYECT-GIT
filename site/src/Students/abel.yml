@@ -1,0 +1,52 @@
+# Personal Information
+basic_info:
+  # Your full name
+  first_name: Abel
+  last_name: Montiel Aguilar
+
+  # You have 1 paragraph to make a great impression, summarize your career.
+  summary:
+  Estoy en el Bootcamp 4geeks Academy, el cual me permite reforzar los conocimientos de D.Science.
+
+  # Your profile picture URL
+  # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+  avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fel124.com%2Fjueves-de-fotos-de-hombres-sexys%2F&psig=AOvVaw3Cd8yFcT20xNxt-1uLn4vU&ust=1692028216037000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCmzbf-2YADFQAAAAAdAAAAABAE
+
+  # Contact Information
+  email: abelmontiel123@gmail.com #optional
+  phone: 611111111 #optional
+
+  #
+  # ******** IMPORTANT *******
+  # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+  github: programa-door
+
+  twitter: "no-existe" #optional
+
+
+  # Interests or hobies
+  interests:
+    - item: pim
+
+    - item: pam
+
+    - item: pum
+
+# Your previous education
+education:
+  - degree: Data Science
+    academy: 4Geeks Academy
+    # optional
+    university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    time: mayo-2023 - sep-2023
+    details: |
+      Increible experiencia
+
+experiences:
+ 
+    company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+    details: 
+    To-Do List: Muchas
+      Tecnologias: Muchas
+
+ 
